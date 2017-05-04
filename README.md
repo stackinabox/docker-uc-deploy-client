@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/stackinabox/docker-uc-deploy-client.svg?branch=master)](https://travis-ci.org/stackinabox/docker-uc-deploy-client)
+
 Docker image with ucd client.
 
 ##
